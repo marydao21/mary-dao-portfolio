@@ -6,6 +6,7 @@ A focused portfolio for software, data, business analysis and finance work.
 
 Every project shown on the site is linked to a source repository under [marydao21](https://github.com/marydao21). The portfolio currently includes:
 
+- [2026 Winter Data Analysis Challenge](https://github.com/manhduc7804/2026-Winter-Data-Analysis-Challenge) — co-authored by Mary Dao and Damian Nguyen
 - [2025 Winter Data Analysis Challenge](https://github.com/marydao21/2025-Winter-Data-Analysis-Challenge)
 - [StrataConnect Website](https://github.com/marydao21/StrataConnect-Website)
 - [Real-Time Emergency Alerts App](https://github.com/marydao21/Real-Time-Emergency-Alerts-App)
