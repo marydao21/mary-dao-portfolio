@@ -1,21 +1,25 @@
 # Mary Dao — Portfolio
 
-A focused portfolio for software, data, business analysis and finance work.
+My personal portfolio showcasing projects across software development, data analytics, business analysis and finance.
 
-## Verified project policy
+The site introduces my background, technical and business capabilities, approach to teamwork, and selected university and personal projects. Each project includes an overview, its impact, the technologies used and my role.
 
-Every project shown on the site is linked to a source repository under [marydao21](https://github.com/marydao21). The portfolio currently includes:
+## Featured work
 
-- [2026 Winter Data Analysis Challenge](https://github.com/manhduc7804/2026-Winter-Data-Analysis-Challenge) — co-authored by Mary Dao and Damian Nguyen
-- [2025 Winter Data Analysis Challenge](https://github.com/marydao21/2025-Winter-Data-Analysis-Challenge)
-- [StrataConnect Website](https://github.com/marydao21/StrataConnect-Website)
-- [Real-Time Emergency Alerts App](https://github.com/marydao21/Real-Time-Emergency-Alerts-App)
-- [Citadels Game](https://github.com/marydao21/Citadels-Game)
-- [Robot Maze Runner](https://github.com/marydao21/Robot-Maze-Runner)
-- [2048 Game](https://github.com/marydao21/2048-Game)
+- The Prosperity Paradox — 2026 Winter Data Analysis Challenge
+- Sydney Public Transport Analysis — 2025 Winter Data Analysis Challenge
+- StrataConnect
+- Real-Time Emergency Alerts App
+- Citadels Game
+- Robot Maze Runner
+- 2048 Game
 
-Projects without repository evidence are intentionally excluded.
+## Built with
 
-## View
+- HTML
+- CSS
+- Responsive web design
 
-Open `index.html` locally or enable GitHub Pages for this repository.
+## View the portfolio
+
+Open `index.html` locally, or visit the published GitHub Pages site when deployment is enabled.
